@@ -1,5 +1,5 @@
 {
-  "name": "tax-frontend-portal",
+  "name": "acme-tax-frontend-portal",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
