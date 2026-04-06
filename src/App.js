@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div style={{ padding: '40px', fontFamily: 'Segoe UI, sans-serif', maxWidth: '600px' }}>
-      <h1 style={{ color: '#2E3B4E', borderBottom: '2px solid #FFE600' }}>ACME Tax Portal</h1>
+      <h1 style={{ color: '#2E3B4E', borderBottom: '2px solid #FFE600' }}>Tax Refund Portal</h1>
       <p>Proportional Refund Calculator (v1.0 Baseline)</p>
       
       <div style={{ marginTop: '20px', padding: '20px', border: '1px solid #ddd', borderRadius: '4px' }}>
