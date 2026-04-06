@@ -1,4 +1,6 @@
 # TaxFrontendPortal
+![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/node-16+-339933?logo=node.js&logoColor=white)
 
 A React-based web portal for calculating tax refunds. Part of the **Tax Refund System**, which also includes [TaxBackendService](https://github.com/pvlakshm/TaxBackendService) — the Python/FastAPI microservice that performs the actual calculation.
 
